@@ -1,0 +1,23 @@
+
+[
+  {
+    "query": "What happens when an access token expires?",
+    "relevant_chunk_ids": ["api_security_0"]
+  },
+  {
+    "query": "How do computers learn patterns from data?",
+    "relevant_chunk_ids": ["machine_learning_0"]
+  },
+  {
+    "query": "What are convolutional neural networks used for?",
+    "relevant_chunk_ids": ["deep_learning_0"]
+  },
+  {
+    "query": "How are key-value pairs stored in Python?",
+    "relevant_chunk_ids": ["python_0"]
+  },
+  {
+    "query": "Why is connection pooling useful?",
+    "relevant_chunk_ids": ["database_0"]
+  }
+]
